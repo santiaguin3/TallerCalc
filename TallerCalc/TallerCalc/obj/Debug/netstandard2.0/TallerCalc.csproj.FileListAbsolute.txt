@@ -1,0 +1,14 @@
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\bin\Debug\netstandard2.0\TallerCalc.deps.json
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\bin\Debug\netstandard2.0\TallerCalc.dll
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\bin\Debug\netstandard2.0\ref\TallerCalc.dll
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\bin\Debug\netstandard2.0\TallerCalc.pdb
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\TallerCalc.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\TallerCalc.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\TallerCalc.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\TallerCalc.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\TallerCalc.dll
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\ref\TallerCalc.dll
+C:\Users\Santiago\source\repos\TallerCalc\TallerCalc\TallerCalc\obj\Debug\netstandard2.0\TallerCalc.pdb

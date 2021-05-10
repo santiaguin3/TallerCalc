@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vIt/uWccE2c0fme7H7i0LUrQ+PDBfskl8YA0sYRH4123EHLfe5y3hNM6XW/pfRKsa4D1FOlMZwiq5Izst+IUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Santiago\\source\\repos\\TallerCalc\\TallerCalc\\TallerCalc.iOS\\TallerCalc.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santiago\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
